@@ -1,0 +1,29 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="SplashTheme" parent="AppTheme">
+        <!-- 欢迎页背景 -->
+        <item name="android:windowBackground">@drawable/splash</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+    <style name="AppTheme.ActionBar" parent="Theme.AppCompat.Light">
+        <item name="actionMenuTextColor">@android:color/white</item>
+        <item name="colorButtonNormal">@android:color/white</item>
+        <item name="colorControlNormal">@android:color/white</item>
+    </style>
+
+    <style name="MyTabLayout" parent="Widget.Design.TabLayout">
+        <item name="tabBackground">@drawable/tab_orange_bg</item>
+        <item name="tabIndicatorColor">@color/transparent</item>
+        <item name="tabIndicatorHeight">0dp</item>
+    </style>
+
+</resources>

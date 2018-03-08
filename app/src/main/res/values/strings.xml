@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">重邮空教室</string>
+    <string name="version">版本号：1.0</string>
+    <string name="publish_time">发布日期：2018/3/8</string>
+    <string name="backHint">有什么其他功能想要添加的，可以点下面的GitHub链接提交issues</string>
+</resources>
