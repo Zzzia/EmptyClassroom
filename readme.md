@@ -10,4 +10,4 @@
 
 APP截图：
 
-<img src="https://github.com/Zzzia/emptyClass/blob/master/1.png" height="1080" width="540">
+<img src="https://github.com/Zzzia/EmptyClassroom/blob/master/scereenshoot.png" height="1080" width="540">
