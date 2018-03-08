@@ -6,7 +6,7 @@
 
 操作简便，启动光速，网络请求稳定迅速，代码开源无后门
 
-[APK下载](http://qiniu.zzzia.net/emptyClass_zzzia.apk)
+[APK下载](http://qiniu.zzzia.net/emptyClass.apk)
 
 APP截图：
 
